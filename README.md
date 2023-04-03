@@ -6,7 +6,8 @@
 3. Do your work, export relevant configs, commit any relevant files.
 4. Push your branch to your forked repo.
 5. Share the link of your branch with us.
-** Sometimes you will have to create a patch, then the above is not required.
+
+```Sometimes you will be asked to create a patch, then the above is not required.```
 
 ## You will be evaluated on
 1. Task completion.
